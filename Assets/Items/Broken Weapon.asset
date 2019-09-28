@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f1ec47632f39894d85e2d4cb3161ebd, type: 3}
+  m_Name: Broken Weapon
+  m_EditorClassIdentifier: 
+  ItemName: "L'arme p\xE9t\xE9e"
+  Description: 
+  ItemType: 0
+  Datas:
+    Lifepoints: 5000
+    MaxLifepoints: 5000
+    Damages: 150
+    SpeedAttack: 2
+    MoveSpeed: 0
+    AttackRange: 0
+    LifeRegenCooldown: 0
+    LifeRegen: 0
+    CritRate: 0.5
+    CritDamages: 3000
+  IsEquiped: 0
